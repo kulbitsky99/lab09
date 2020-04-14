@@ -1,0 +1,12 @@
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/package_source.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/package.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/check.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/test.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/demo.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/print.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/install/strip.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/list_install_components.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/install.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/edit_cache.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/rebuild_cache.dir
+/home/mikita/2020/acronis/industrial_programming_acronis_2020/kulbitsky99/workspace/projects/lab09/_build/CMakeFiles/install/local.dir
